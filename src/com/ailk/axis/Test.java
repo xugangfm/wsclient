@@ -22,7 +22,7 @@ public class Test {
 			doERPBillList(client);
 			Thread.currentThread().sleep(5000);
 			
-			System.out.println("test branch 1");
+			System.out.println("test branch 2222");
 			
 		} catch (Exception e) {
 			// TODO: handle exception
