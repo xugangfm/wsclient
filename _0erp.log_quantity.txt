@@ -1,0 +1,4 @@
+billQuantity;2014-04-03 09:26:21;545
+billQuantity;2014-04-03 09:26:23;87
+billQuantity;2014-04-03 09:26:24;110
+billQuantity;2014-04-03 09:26:25;1513
