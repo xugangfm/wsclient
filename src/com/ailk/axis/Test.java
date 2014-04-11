@@ -22,8 +22,6 @@ public class Test {
 			doERPBillList(client);
 			Thread.currentThread().sleep(5000);
 			
-			System.out.println("test git revert");
-			
 		} catch (Exception e) {
 			// TODO: handle exception
 			file_out_println("billQuantity;call-fail;" +"0000", "erp.log.txt");
