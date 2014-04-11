@@ -21,6 +21,7 @@ public class Test {
 			doERPNumber(client);
 			doERPBillList(client);
 			Thread.currentThread().sleep(5000);
+			System.out.println("test git");
 			
 		} catch (Exception e) {
 			// TODO: handle exception
