@@ -23,8 +23,6 @@ public class Test {
 			Thread.currentThread().sleep(5000);
 			System.out.println("test git");
 			
-			System.out.println("test git roll back");
-			
 		} catch (Exception e) {
 			// TODO: handle exception
 			file_out_println("billQuantity;call-fail;" +"0000", "erp.log.txt");
